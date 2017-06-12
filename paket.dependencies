@@ -1,0 +1,5 @@
+source https://nuget.org/api/v2
+
+nuget System.Runtime
+nuget FSharp.NET.Sdk ~> 1.0
+nuget Newtonsoft.Json
